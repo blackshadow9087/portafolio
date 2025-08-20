@@ -1,4 +1,2 @@
 
-    display: inline-block;
-   
-}
+  
