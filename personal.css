@@ -1,0 +1,71 @@
+body {
+    background-color: cornflowerblue;
+ border: 10px;
+}
+
+
+
+.barra1 { 
+    background-color: blue;
+    width: 90% ;
+    height: 100px ;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.home { 
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    display: inline-block;
+    margin-left: 300px;
+ }
+
+.gustos { 
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    display: inline-block;
+
+}
+
+.descripcion {
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    display: inline-block;
+
+ }
+
+.div1 { 
+    background-color: blue ;
+    width: 90% ;
+    height: 300px ;
+    border-radius: 20px ;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+a { 
+    background-color: blue;
+    color: white;
+}
+
+h2 { 
+    color: white;
+   margin-left: 330px;
+   margin-top: -110px;
+}
+
+.img1 {
+    width: 20% ;
+    height: 250px;
+    border-radius: 20px ;
+    margin-top: -200px ;
+    margin: 20px ; 
+}
+
+
+
+

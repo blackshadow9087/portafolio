@@ -1,0 +1,90 @@
+body {
+    background-color: cornflowerblue;
+    border: 10px;
+}
+
+
+
+.barra1 { 
+    background-color: blue;
+    width: 90% ;
+    height: 100px ;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.home { 
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    display: inline-block;
+    margin-left: 300px;
+ }
+
+.gustos { 
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    display: inline-block;
+
+}
+
+.descripcion {
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    display: inline-block;
+
+ }
+
+ a { 
+    background-color: blue;
+    color: white;
+}
+
+.div2 { 
+    background-color: blue;
+    width: 30%  ;
+    height: 600px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+h2 { 
+    color: white;
+    margin: 20px;
+}
+
+h1 { 
+    color: white;
+    text-align: center; 
+ }
+
+ .div3  { 
+    background-color: blue;
+    width: 30%  ;
+    height: 600px;
+    margin: 20px;
+    display: flex; 
+    margin-top: -300px;
+    flex-direction: column;
+    border-radius: 10px;
+    display: inline-block;
+   
+}
+
+ .div4  { 
+    background-color: blue;
+    width: 30%  ;
+    height: 600px;
+    margin: 20px;
+    display: flex; 
+    margin-top: -300px;
+    flex-direction: column;
+    border-radius: 10px;
+    display: inline-block;
+   
+}
